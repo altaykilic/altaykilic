@@ -3,6 +3,7 @@
 - 📫 How to reach me  
     - personal email: altaykilic@gmail.com
     - METU email: altay.kilic@metu.edu.tr
+    - linkedin: https://www.linkedin.com/in/altaykilic
 
 <!---
 altaykilic/altaykilic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
